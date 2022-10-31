@@ -1,1 +1,17 @@
 /* styles go here */
+.fieldset {
+  margin-bottom: 20px;
+}
+
+.textarea {
+  width: 130px;
+  height: 30px;
+}
+
+.inputs {
+  margin-bottom: 10px;
+}
+
+fieldset div:last-child {
+  margin-bottom: 0;
+}
