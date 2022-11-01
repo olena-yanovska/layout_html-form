@@ -12,6 +12,6 @@
   margin-bottom: 10px;
 }
 
-fieldset div:last-child {
+.inputs:last-child {
   margin-bottom: 0;
 }
